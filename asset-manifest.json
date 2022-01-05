@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sentence_CRUD/static/css/main.71d62c3c.chunk.css",
+    "main.js": "/Sentence_CRUD/static/js/main.9982640c.chunk.js",
+    "main.js.map": "/Sentence_CRUD/static/js/main.9982640c.chunk.js.map",
+    "runtime-main.js": "/Sentence_CRUD/static/js/runtime-main.adb756fe.js",
+    "runtime-main.js.map": "/Sentence_CRUD/static/js/runtime-main.adb756fe.js.map",
+    "static/js/2.49508c0d.chunk.js": "/Sentence_CRUD/static/js/2.49508c0d.chunk.js",
+    "static/js/2.49508c0d.chunk.js.map": "/Sentence_CRUD/static/js/2.49508c0d.chunk.js.map",
+    "static/js/3.8496fb0d.chunk.js": "/Sentence_CRUD/static/js/3.8496fb0d.chunk.js",
+    "static/js/3.8496fb0d.chunk.js.map": "/Sentence_CRUD/static/js/3.8496fb0d.chunk.js.map",
+    "index.html": "/Sentence_CRUD/index.html",
+    "static/css/main.71d62c3c.chunk.css.map": "/Sentence_CRUD/static/css/main.71d62c3c.chunk.css.map",
+    "static/js/2.49508c0d.chunk.js.LICENSE.txt": "/Sentence_CRUD/static/js/2.49508c0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adb756fe.js",
+    "static/js/2.49508c0d.chunk.js",
+    "static/css/main.71d62c3c.chunk.css",
+    "static/js/main.9982640c.chunk.js"
+  ]
+}
