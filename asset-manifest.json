@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Sentence_CRUD/static/css/main.71d62c3c.chunk.css",
-    "main.js": "/Sentence_CRUD/static/js/main.9982640c.chunk.js",
-    "main.js.map": "/Sentence_CRUD/static/js/main.9982640c.chunk.js.map",
+    "main.js": "/Sentence_CRUD/static/js/main.08acaa62.chunk.js",
+    "main.js.map": "/Sentence_CRUD/static/js/main.08acaa62.chunk.js.map",
     "runtime-main.js": "/Sentence_CRUD/static/js/runtime-main.adb756fe.js",
     "runtime-main.js.map": "/Sentence_CRUD/static/js/runtime-main.adb756fe.js.map",
     "static/js/2.49508c0d.chunk.js": "/Sentence_CRUD/static/js/2.49508c0d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.adb756fe.js",
     "static/js/2.49508c0d.chunk.js",
     "static/css/main.71d62c3c.chunk.css",
-    "static/js/main.9982640c.chunk.js"
+    "static/js/main.08acaa62.chunk.js"
   ]
 }
